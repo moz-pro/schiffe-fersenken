@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="roFxHwcd8$+;Eufl-h8a" x="0" y="0"><statement name="HANDLER"><block type="radio_set_group" id="JZcD/ihwfblI$_ZKa9|4"><value name="ID"><shadow type="math_number_minmax" id="S91!*Bn3jDK$DfHGwW;U"><mutation min="0" max="255" label="Id" precision="0"></mutation><field name="SLIDER">1</field></shadow></value></block></statement></block><block type="device_forever" id="G,z_~j1z/$cZKSh^N(x," x="361" y="8"></block><block type="device_show_leds" id="6)2y[aybf/EeLK;CBe2v" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="126" y="295"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="e(=Gy2p#$N(GMgIL=u[H" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block><block type="device_show_leds" id="H+Am!T4fs?vB`}7n8=:~" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="-100" y="425"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="device_show_leds" id="7G+mp#`TLH$S6c^V:_jf" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="345" y="405"><field name="LEDS">`
+        # # . . . 
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></xml>
